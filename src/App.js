@@ -1,6 +1,7 @@
 import "./App.css";
-import NineBgChng from "./components/NineBgChng";
-import TenUploadImg from "./components/TenUploadImg";
+import ElevenRegis from "./components/ElevenRegis";
+//import NineBgChng from "./components/NineBgChng";
+//import TenUploadImg from "./components/TenUploadImg";
 //import SevenTimer from "./components/SevenTimer";
 //import FiveToggle from "./components/FiveToggle";
 //import FourDis from './components/FourDis';
@@ -20,7 +21,8 @@ function App() {
       {/* <SixFetch/> */}
       {/* <SevenTimer/> */}
       {/* <NineBgChng/> */}
-      <TenUploadImg/>
+      {/* <TenUploadImg/> */}
+      <ElevenRegis/>
     </>
   );
 }
