@@ -10,7 +10,7 @@
 //import SixFetch from './components/SixFetch';
 //import ClockTime from './components/ClockTime';
 //import One from './components/One';
-//import FourtnPage from "./FourtnPage";
+//import FourtnPage from "./components/FourtnPage";
 //import ThrtnSrch from "./components/ThrtnSrch";
 
 function App() {
