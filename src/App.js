@@ -10,11 +10,11 @@
 //import SixFetch from './components/SixFetch';
 //import ClockTime from './components/ClockTime';
 //import One from './components/One';
-import FourtnPage from "./FourtnPage";
+//import FourtnPage from "./FourtnPage";
 //import ThrtnSrch from "./components/ThrtnSrch";
 
 function App() {
-  const items=['item1','item2','item3','item4','Another Item']
+  //const items=['item1','item2','item3','item4','Another Item']
   return (
     <>
       {/* <ClockTime/> */}
@@ -29,7 +29,7 @@ function App() {
       {/* <ElevenRegis/> */}
       {/* <TwelveWeatherApi /> */}
       {/* <ThrtnSrch items={items}/> */}
-      <FourtnPage items={items} itemsPerPage={2}/>
+      {/* <FourtnPage items={items} itemsPerPage={2}/> */}
     </>
   );
 }
